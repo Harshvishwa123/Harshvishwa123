@@ -9,5 +9,4 @@
 [Check out my resume site](https://harshvishwa123.github.io/resume-site/)
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvishwa123&layout=compact)
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshvishwa123&show_icons=true)
