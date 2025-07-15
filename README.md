@@ -1,5 +1,4 @@
 <!-- Profile Header Banner -->
-<img src="https://github.com/Harshvishwa123/Harshvishwa123/assets/your-banner-image-id" alt="Harsh Vishwakarma Banner" style="width:100%; border-radius:10px;"/>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#0077cc;">Harsh Vishwakarma</span></h1>
 <p align="center">🚀 CSE Undergraduate | 🤖 ML & NLP Explorer | 💡 Passionate Problem Solver</p>
@@ -47,17 +46,12 @@
 
 ---
 
-### ✨ Fun Fact
-> *I once rebuilt a Linux shell in C — not because I had to, but because I wanted to understand the terminal's soul.* 🧠⚙️
-
----
-
 ### 🔗 Quick Links
 
 <p align="center">
   <a href="https://your-paper-link.com"><img src="https://img.shields.io/badge/Research_Paper-NLP-FF4088?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
   <a href="https://github.com/Harshvishwa123"><img src="https://img.shields.io/badge/My_Repos-Explore-6f42c1?style=for-the-badge&logo=github"/></a>
-  <a href="https://harshvishwa123.github.io/resume-site/"><img src="https://img.shields.io/badge/Resume_Site-Visit-00aa88?style=for-the-badge&logo=firefox-browser"/></a>
+  <a href="https://harshvishwa123.github.io/resume-site/"><img src="https://img.shields.io/badge/Portfolio-Visit-00aa88?style=for-the-badge&logo=firefox-browser"/></a>
 </p>
 
 ---
