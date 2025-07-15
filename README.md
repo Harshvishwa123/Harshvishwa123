@@ -6,7 +6,7 @@
 - 📸 Instagram: [@harshvishwakarma516](https://www.instagram.com/harshvishwakarma516?igsh=Y3cwd3NpYXp0bHky)
 
 ## 🌐 My Resume Website
-[Check out my resume site](https://harshvishwa123.github.io/resume-site/)
+[Check out my portfolio](file:///C:/Users/hvish/Downloads/modern_portfolio.html)
 
 ## 📊 GitHub Stats
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshvishwa123&show_icons=true)
