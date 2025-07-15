@@ -49,7 +49,6 @@
 ### 🔗 Quick Links
 
 <p align="center">
-  <a href="https://your-paper-link.com"><img src="https://img.shields.io/badge/Research_Paper-NLP-FF4088?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
   <a href="https://github.com/Harshvishwa123"><img src="https://img.shields.io/badge/My_Repos-Explore-6f42c1?style=for-the-badge&logo=github"/></a>
   <a href="https://harshvishwa123.github.io/resume-site/"><img src="https://img.shields.io/badge/Portfolio-Visit-00aa88?style=for-the-badge&logo=firefox-browser"/></a>
 </p>
