@@ -10,7 +10,6 @@
   <a href="https://www.instagram.com/harshvishwakarma516"><img src="https://img.shields.io/badge/Instagram-@harshvishwakarma516-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="https://harshvishwa123.github.io/resume-site/"><img src="https://img.shields.io/badge/Portfolio-Site-00aaff?style=flat&logo=vercel&logoColor=white"/></a>
 </p>
-
 ---
 
 ### 🎯 About Me
