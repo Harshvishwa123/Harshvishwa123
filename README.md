@@ -22,17 +22,56 @@
 
 ---
 
-### 💼 Skills & Tools
+## 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-</p>
+## 🧠 AI/ML & Data Science
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge&logoColor=black)
+![BART](https://img.shields.io/badge/BART-FF4B4B?style=for-the-badge&logoColor=white)
+![FLAN--T5](https://img.shields.io/badge/FLAN--T5-4285F4?style=for-the-badge&logoColor=white)
+
+## 🛠️ Tools & Technologies
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🎨 Design & Productivity
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+
+## 🎯 Frameworks & Libraries
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+![Snorkel](https://img.shields.io/badge/Snorkel-FF6B6B?style=for-the-badge&logoColor=white)
+![Ensemble Methods](https://img.shields.io/badge/Ensemble%20Methods-4CAF50?style=for-the-badge&logoColor=white)
+
+## 📚 Core Computer Science
+![Data Structures](https://img.shields.io/badge/Data%20Structures-FF5722?style=for-the-badge&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-9C27B0?style=for-the-badge&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-2196F3?style=for-the-badge&logoColor=white)
+![DBMS](https://img.shields.io/badge/Database%20Management-4CAF50?style=for-the-badge&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-FF9800?style=for-the-badge&logoColor=white)
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-673AB7?style=for-the-badge&logoColor=white)
+
+## 🌐 Web Development
+![Web Development](https://img.shields.io/badge/Web%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Network Science](https://img.shields.io/badge/Network%20Science-FF4081?style=for-the-badge&logoColor=white)
+
+## 📊 GitHub Stats
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&row=1&column=6)
 
 ---
 
