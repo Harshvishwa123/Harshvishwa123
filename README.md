@@ -65,8 +65,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshvishwa123&show_icons=true&theme=gradient"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvishwa123&layout=compact&theme=gradient"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshvishwa123&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvishwa123&layout=compact&theme=radical"/>
 </p>
 
 ---
