@@ -60,14 +60,6 @@
 ![Network Science](https://img.shields.io/badge/Network%20Science-FF4081?style=for-the-badge&logoColor=white)
 
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Harshvishwa123&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Harshvishwa123&layout=compact&theme=tokyonight"/>
-</p>
 
 
 ---
